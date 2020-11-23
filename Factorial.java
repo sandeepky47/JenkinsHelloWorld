@@ -12,7 +12,7 @@ public class Factorial {
 	          i++;
 	      } while (i <= n);
 	      
-	      System.out.println("Factorial of " + n + " is= " + factorial);
+	      System.out.println("Factorial is= " + factorial);
 
 	}
 
